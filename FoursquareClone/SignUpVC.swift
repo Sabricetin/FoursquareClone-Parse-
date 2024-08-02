@@ -6,7 +6,8 @@
 //
 
 import UIKit
-import Parse
+import ArgumentParser
+
 
 
 class SignUpVC: UIViewController {
@@ -18,7 +19,6 @@ class SignUpVC: UIViewController {
         super.viewDidLoad()
      
         
-       
         
     }
     
